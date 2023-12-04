@@ -1,16 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="77ca1665-9ca9-4931-8b88-b1e06ead7406" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AoC - 3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Part1.java" afterDir="false" />
+    <list default="true" id="77ca1665-9ca9-4931-8b88-b1e06ead7406" name="Changes" comment="Part 1 complete">
       <change afterPath="$PROJECT_DIR$/src/Part2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,9 +36,16 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Part1">
+  <component name="RunManager" selected="Application.Part2">
     <configuration name="Part1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Part1" />
+      <module name="AoC - 3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Part2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Part2" />
       <module name="AoC - 3" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -60,6 +60,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Part2" />
         <item itemvalue="Application.Part1" />
         <item itemvalue="Application.fucker" />
       </list>
@@ -74,6 +75,13 @@
       <option name="presentableId" value="Default" />
       <updated>1701680109335</updated>
     </task>
+    <task id="LOCAL−00001" summary="Part 1 complete">
+      <created>1701691778688</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1701691778688</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -86,5 +94,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Part 1 complete" />
+    <option name="LAST_COMMIT_MESSAGE" value="Part 1 complete" />
   </component>
 </project>
